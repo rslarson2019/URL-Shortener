@@ -1,10 +1,7 @@
 # URL-Shortener Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of the software that you wrote to demonstrate the JavaScript language.}
-
-{Describe your purpose for writing this software.}
+I did this project to learn more about Javascript. I wanted to learn how I could 
+shorten URL's to help my links look neater. 
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
@@ -12,21 +9,19 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used VS code, Github, and a VScode extension called LiveServer to create this software
 
-{Describe the programming language that you used and any libraries.}
+I used Javascript, HTML, and CSS for this project.
+This software is a basic website that will take any URL and shorten it. It links through a website
+called tinyurl.com and uses an API there to do shortening
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- https://www.w3schools.com/js/
+- https://javascript.info/async-await
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- I want to update the stlye sheet so the page looks more professional 
+- I want to add a way to store your 10 most recent links submitted
