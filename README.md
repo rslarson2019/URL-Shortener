@@ -3,9 +3,10 @@
 I did this project to learn more about Javascript. I wanted to learn how I could 
 shorten URL's to help my links look neater. 
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+# Software Demo Video
 
-[Software Demo Video](http://youtube.link.goes.here)
+https://www.loom.com/share/fe9a8dc5376149d4b3b17a366a871ab9?sid=9ed31e53-8282-4dec-90e3-ff6c8c645838
+
 
 # Development Environment
 
